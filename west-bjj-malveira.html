@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-PT">
 <head>
 <meta charset="UTF-8">
@@ -476,8 +475,6 @@ footer small { font-size:0.75rem; color:#444; letter-spacing:0.04em; }
 
   </div>
 
-</section>
-
 <!-- CONTACTO -->
 <section id="contacto">
 <div class="contacto-inner">
@@ -546,5 +543,4 @@ footer small { font-size:0.75rem; color:#444; letter-spacing:0.04em; }
   }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
   document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
 </script>
-</body>
-</html>
+
